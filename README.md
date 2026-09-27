@@ -59,3 +59,9 @@
 </a>
 
 </div>
+
+<div align="center">
+
+Open to **collaborations** and **internship** opportunities.
+
+</div>
