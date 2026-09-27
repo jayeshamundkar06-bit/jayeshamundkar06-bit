@@ -23,7 +23,7 @@
 
 ### TECH STACK
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman&theme=dark&perline=8" />
 
 <br/><br/>
 
