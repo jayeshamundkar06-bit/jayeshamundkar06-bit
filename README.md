@@ -21,6 +21,31 @@
 
 <div align="center">
 
+### TECH STACK
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+<img src="https://img.shields.io/badge/OOP-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+<img src="https://img.shields.io/badge/Responsive%20Design-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+<img src="https://img.shields.io/badge/Debugging-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+<img src="https://img.shields.io/badge/DSA-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+<img src="https://img.shields.io/badge/Data%20Structures-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+<img src="https://img.shields.io/badge/Basic%20Networking-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=334155" />
+
+</div>
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/jayeshamundkar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
