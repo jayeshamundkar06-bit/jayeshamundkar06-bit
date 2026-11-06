@@ -1,0 +1,32 @@
+name: Generate Pokémon Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies (none needed)
+        run: echo "No dependencies"
+      - name: Run graph generation script
+        run: node scripts/generate-pokemon-graph.js
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Pokémon contribution graph"
+          file_pattern: assets/pokemon-contribution-graph.svg
+          push_options: '--force-with-lease'
