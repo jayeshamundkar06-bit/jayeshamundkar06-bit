@@ -12,19 +12,11 @@
 </div>
 
 <div align="center">
-<img src="assets/pokemon-contribution-graph.svg" alt="Pokémon contribution graph" />
-</div>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayeshamundkar06-bit/jayeshamundkar06-bit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayeshamundkar06-bit/jayeshamundkar06-bit/output/github-contribution-grid-snake.svg" />
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jayeshamundkar06-bit/jayeshamundkar06-bit/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
-
-<div align="center">
-<img src="assets/pokemon-contribution-graph.svg" alt="Pokémon contribution graph" />
 </div>
 
 <div align="center">
@@ -53,10 +45,6 @@
 </div>
 
 <div align="center">
-<img src="assets/pokemon-contribution-graph.svg" alt="Pokémon contribution graph" />
-</div>
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/jayeshamundkar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -74,8 +62,4 @@
 
 Open to **collaborations** and **internship** opportunities.
 
-</div>
-
-<div align="center">
-<img src="assets/pokemon-contribution-graph.svg" alt="Pokémon contribution graph" />
 </div>
