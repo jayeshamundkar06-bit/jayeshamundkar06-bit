@@ -14,8 +14,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        # Enable the default GITHUB_TOKEN so the later push can authenticate.
+        # fetch-depth 0 gives a full History, required for a push after a new commit.
         with:
-          persist-credentials: false
+          persist-credentials: true   # ← must be true (or omitted) for auth
+          fetch-depth: 0              # full clone for push capability
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -29,4 +32,3 @@ jobs:
         with:
           commit_message: "Update Pokémon contribution graph"
           file_pattern: assets/pokemon-contribution-graph.svg
-          push_options: '--force-with-lease'
